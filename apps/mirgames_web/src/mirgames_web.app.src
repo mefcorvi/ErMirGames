@@ -1,0 +1,13 @@
+{application, mirgames_web,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib,
+                  misultin
+                 ]},
+  {mod, { mirgames_web_app, []}},
+  {env, []}
+ ]}.

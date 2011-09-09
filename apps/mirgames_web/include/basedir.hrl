@@ -1,0 +1,1 @@
+-define(BASEDIR, "/home/mefcorvi/projects/mirgames/apps/mirgames_web/").

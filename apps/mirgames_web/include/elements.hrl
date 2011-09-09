@@ -1,0 +1,2 @@
+-include_lib("nitrogen_core/include/wf.hrl").
+-record(page_header, {?ELEMENT_BASE(element_page_header), text=""}).
