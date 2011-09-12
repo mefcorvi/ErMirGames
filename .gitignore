@@ -16,3 +16,6 @@ rel
 data/*
 #deps
 deps
+#couchdb
+couchdb.stderr
+couchdb.stdout
